@@ -1,0 +1,13 @@
+.yup {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.conTaiNer {
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    justify-content: center;
+  }
